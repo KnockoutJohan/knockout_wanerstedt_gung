@@ -1,0 +1,15 @@
+# Vendor, system and idea files 
+.DS_Store
+.idea
+.data
+.db
+node_modules
+debug.log
+vendor
+*.dat
+.history
+.phpunit.result.cache
+
+
+public_html/*
+!public_html/wp-content/plugins/gung-integration
